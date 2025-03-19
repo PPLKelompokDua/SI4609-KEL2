@@ -12,7 +12,13 @@
 1202223115 - Revalina Aurellia Indrawan
 1202223182 - Susanti Afrilia 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Praktikum modul 2
 =======
 praktikum modul 2
 >>>>>>> origin/Susanti_Branch
+=======
+
+
+perubahannnnn vilson
+>>>>>>> Vilson_Branch
