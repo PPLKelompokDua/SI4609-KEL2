@@ -1,0 +1,1 @@
+Dalam fitur Story Space, user akan dapat saling berinteraksi engan user lain. User dapat mengupload foto, text maupun video ke dalam platform yang disediakan.
